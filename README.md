@@ -1,6 +1,5 @@
 <p align="center">
-  <a href="https://yuna0x0.com">
-    <img src="kita-ikuyo-rap.webp" alt="Banner">
+    <img src="https://tenor.com/ru/view/sealyx-frieren-beyond-journey's-end-gif-14136988244098183569" alt="Banner">
   </a>
 </p>
 
