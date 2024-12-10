@@ -1,8 +1,3 @@
-<p align="center">
-    <img src="https://tenor.com/ru/view/sealyx-frieren-beyond-journey's-end-gif-14136988244098183569" alt="Banner">
-  </a>
-</p>
-
 
 ## Polina Mitrofanova | ITMO University student (Faculty of Applied Informatics)
 ### 📍St.-Petersburg 
